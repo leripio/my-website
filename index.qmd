@@ -1,0 +1,26 @@
+---
+title: "J. Renato Leripio"
+subtitle: "Quantitative Analyst | Data Scientist"
+image: images/profile.jpg
+image-alt: Photo of Renato Leripio
+about:
+  id: hero-heading
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/leripio
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/leripiorenato/
+    - icon: amazon
+      text: R4ER
+      href: https://www.amazon.com/Economic-Research-Essential-economic-analysis-ebook/dp/B0CLQSFSBS/ref=sr_1_1?crid=1MHECS04W37FQ&dib=eyJ2IjoiMSJ9.j_X6ZpOsIIYNyIL70-QkJOylHqQYeZW6rdATwNWsoeLQOTw2Sk_2ID6acuO5HnYH2uL4SQf4sS5P3OWFOnNW1Q5zWKbbUfWz0GvT1Zlq4rXaYm7bAH7uCaA4hrppYbCh_q4QN5d1xFvhhQfh7EmtCVltoVQlNIgqNzdZLxg-hnINZNCnWz3QatCiL0iBpOfGu4Z6tddq2be8S5vgqF9ATVA-xR5sTyX64SYta8caz60.m2sE9U5Kc8M73nl2LjVgpgr-WuCogazt-hfKilvqcMk&dib_tag=se&keywords=r+for+economic+research&qid=1716253408&s=digital-text&sprefix=r+for+economic+re%2Cdigital-text%2C276&sr=1-1
+---
+
+::: {#hero-heading}
+
+<span class="main_text">I currently lead the Data Science team at [Kapitalo](www.kapitalo.com.br){.custom-link}. <br> I'm also the author of [R for Economic Research](http://book.rleripio.com){.custom-link}. </br>
+</span>
+
+:::

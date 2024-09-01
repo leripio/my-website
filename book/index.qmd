@@ -1,0 +1,31 @@
+---
+title: "Book"
+---
+
+## Preface
+
+::: {.callout-note appearance="simple"}
+## Now available at Amazon!
+
+If this book has been useful to you, consider [purchasing](https://www.amazon.com/Economic-Research-Essential-economic-analysis-ebook/dp/B0CLQSFSBS/ref=sr_1_1?crid=1MHECS04W37FQ&dib=eyJ2IjoiMSJ9.j_X6ZpOsIIYNyIL70-QkJOylHqQYeZW6rdATwNWsoeLQOTw2Sk_2ID6acuO5HnYH2uL4SQf4sS5P3OWFOnNW1Q5zWKbbUfWz0GvT1Zlq4rXaYm7bAH7uCaA4hrppYbCh_q4QN5d1xFvhhQfh7EmtCVltoVQlNIgqNzdZLxg-hnINZNCnWz3QatCiL0iBpOfGu4Z6tddq2be8S5vgqF9ATVA-xR5sTyX64SYta8caz60.m2sE9U5Kc8M73nl2LjVgpgr-WuCogazt-hfKilvqcMk&dib_tag=se&keywords=r+for+economic+research&qid=1716253408&s=digital-text&sprefix=r+for+economic+re%2Cdigital-text%2C276&sr=1-1) a physical or Kindle version.
+:::
+
+![](book_cover.jpg){style="float:right;" width="25%"}
+
+Over the past years I've received a lot of messages asking what I considered to be the most important subjects one should learn in order to start a career in economic research. [R for Economic Research - Essential tools for modern economic analysis](http://book.rleripio.com){target="_blank"} is my contribution to those who have some knowledge of R programming but still lack the necessary tools to carry out professional economic analysis. This is an intermediate-level book where the reader will find shortcuts to start working on a variety of tasks and also valuable references to delve into the details of more complex topics.
+
+The reasoning behind the book can be described as follows.
+
+**Modern economic research requires a solid knowledge of a programming language**. In fact, with a growing set of data now available through APIs it is possible to produce automated analyzes almost instantly using efficient techniques. In addition, unstructured data only becomes true information if correctly handled. I chose R because I strongly believe that Tidyverse is unrivaled as a data science workflow.
+
+**It does require more than just programming**. Indeed, I have interviewed several applicants who were quite proficient in programming but lacked knowledge of basic topics on applied time series. For example, they didn't know how to perform seasonal adjustment nor how to deflating nominal to real values. Filling in these gaps is crucial.
+
+**Knowledge about forecasting is vital**. I'm definitely not talking about state-of-the-art machine learning models. In fact, most problems can be addressed with traditional statistical methods. Setting up the workflow to generate reliable forecasts is the relevant skill here.
+
+**I can't help but talk about economic modelling**. Estimating the relationship between economic variables and making projections is the core business of those who work with economic research. Despite being a topic that requires theoretical and applied training beyond the scope of this book, I believe that showing how to set up the framework for these models is a valuable contribution for those who want to start in the field.
+
+**Taking it to the next level**. Some tools allow us to considerably expand our possibilities. Learning how to build and estimate state-space models is undoubtedly a big step forward in becoming a senior analyst.
+
+I really hope that you enjoy reading this book and that it can benefit you in your career.
+
+Also, I would be very happy to receive suggestions and feedbacks.
