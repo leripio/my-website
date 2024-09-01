@@ -1,6 +1,6 @@
 ---
 title: "J. Renato Leripio"
-subtitle: "Quantitative Analyst | Data Scientist"
+subtitle: "Economist | Data Scientist"
 image: images/profile.jpg
 image-alt: Photo of Renato Leripio
 about:
@@ -20,7 +20,7 @@ about:
 
 ::: {#hero-heading}
 
-<span class="main_text">I currently lead the Data Science team at [Kapitalo](www.kapitalo.com.br){.custom-link}. <br> I'm also the author of [R for Economic Research](http://book.rleripio.com){.custom-link}. </br>
+<span class="main_text">I currently lead the Data Science team at [Kapitalo](http://www.kapitalo.com.br){.custom-link target="_blank"}. <br> I'm also the author of [R for Economic Research](http://book.rleripio.com){.custom-link target="_blank"}. </br>
 </span>
 
 :::

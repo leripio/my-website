@@ -1,1 +1,1 @@
-Sitemap: rleripio.com/sitemap.xml
+Sitemap: https://rleripio.com/sitemap.xml

@@ -64,7 +64,7 @@ gtag('config', 'G-4HE60YY1JD', { 'anonymize_ip': true});
 <link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="rleripio.com - Book">
 <meta property="og:description" content="">
-<meta property="og:image" content="rleripio.com/book/book_cover.jpg">
+<meta property="og:image" content="https://rleripio.com/book/book_cover.jpg">
 <meta property="og:site_name" content="rleripio.com">
 </head>
 
@@ -144,7 +144,7 @@ Now available at Amazon!
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>If this book has been useful to you, consider <a href="https://www.amazon.com/Economic-Research-Essential-economic-analysis-ebook/dp/B0CLQSFSBS/ref=sr_1_1?crid=1MHECS04W37FQ&amp;dib=eyJ2IjoiMSJ9.j_X6ZpOsIIYNyIL70-QkJOylHqQYeZW6rdATwNWsoeLQOTw2Sk_2ID6acuO5HnYH2uL4SQf4sS5P3OWFOnNW1Q5zWKbbUfWz0GvT1Zlq4rXaYm7bAH7uCaA4hrppYbCh_q4QN5d1xFvhhQfh7EmtCVltoVQlNIgqNzdZLxg-hnINZNCnWz3QatCiL0iBpOfGu4Z6tddq2be8S5vgqF9ATVA-xR5sTyX64SYta8caz60.m2sE9U5Kc8M73nl2LjVgpgr-WuCogazt-hfKilvqcMk&amp;dib_tag=se&amp;keywords=r+for+economic+research&amp;qid=1716253408&amp;s=digital-text&amp;sprefix=r+for+economic+re%2Cdigital-text%2C276&amp;sr=1-1">purchasing</a> a physical or Kindle version.</p>
+<p>If this book has been useful to you, consider <a href="https://www.amazon.com/Economic-Research-Essential-economic-analysis-ebook/dp/B0CLQSFSBS/ref=sr_1_1?crid=1MHECS04W37FQ&amp;dib=eyJ2IjoiMSJ9.j_X6ZpOsIIYNyIL70-QkJOylHqQYeZW6rdATwNWsoeLQOTw2Sk_2ID6acuO5HnYH2uL4SQf4sS5P3OWFOnNW1Q5zWKbbUfWz0GvT1Zlq4rXaYm7bAH7uCaA4hrppYbCh_q4QN5d1xFvhhQfh7EmtCVltoVQlNIgqNzdZLxg-hnINZNCnWz3QatCiL0iBpOfGu4Z6tddq2be8S5vgqF9ATVA-xR5sTyX64SYta8caz60.m2sE9U5Kc8M73nl2LjVgpgr-WuCogazt-hfKilvqcMk&amp;dib_tag=se&amp;keywords=r+for+economic+research&amp;qid=1716253408&amp;s=digital-text&amp;sprefix=r+for+economic+re%2Cdigital-text%2C276&amp;sr=1-1" target="_blank">purchasing</a> a physical or Kindle version.</p>
 </div>
 </div>
 <p><img src="book_cover.jpg" class="img-fluid" style="float:right;;width:25.0%"></p>
@@ -243,7 +243,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("rleripio\.com");
+      var filterRegex = new RegExp("https:\/\/rleripio\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

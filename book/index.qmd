@@ -7,7 +7,7 @@ title: "Book"
 ::: {.callout-note appearance="simple"}
 ## Now available at Amazon!
 
-If this book has been useful to you, consider [purchasing](https://www.amazon.com/Economic-Research-Essential-economic-analysis-ebook/dp/B0CLQSFSBS/ref=sr_1_1?crid=1MHECS04W37FQ&dib=eyJ2IjoiMSJ9.j_X6ZpOsIIYNyIL70-QkJOylHqQYeZW6rdATwNWsoeLQOTw2Sk_2ID6acuO5HnYH2uL4SQf4sS5P3OWFOnNW1Q5zWKbbUfWz0GvT1Zlq4rXaYm7bAH7uCaA4hrppYbCh_q4QN5d1xFvhhQfh7EmtCVltoVQlNIgqNzdZLxg-hnINZNCnWz3QatCiL0iBpOfGu4Z6tddq2be8S5vgqF9ATVA-xR5sTyX64SYta8caz60.m2sE9U5Kc8M73nl2LjVgpgr-WuCogazt-hfKilvqcMk&dib_tag=se&keywords=r+for+economic+research&qid=1716253408&s=digital-text&sprefix=r+for+economic+re%2Cdigital-text%2C276&sr=1-1) a physical or Kindle version.
+If this book has been useful to you, consider [purchasing](https://www.amazon.com/Economic-Research-Essential-economic-analysis-ebook/dp/B0CLQSFSBS/ref=sr_1_1?crid=1MHECS04W37FQ&dib=eyJ2IjoiMSJ9.j_X6ZpOsIIYNyIL70-QkJOylHqQYeZW6rdATwNWsoeLQOTw2Sk_2ID6acuO5HnYH2uL4SQf4sS5P3OWFOnNW1Q5zWKbbUfWz0GvT1Zlq4rXaYm7bAH7uCaA4hrppYbCh_q4QN5d1xFvhhQfh7EmtCVltoVQlNIgqNzdZLxg-hnINZNCnWz3QatCiL0iBpOfGu4Z6tddq2be8S5vgqF9ATVA-xR5sTyX64SYta8caz60.m2sE9U5Kc8M73nl2LjVgpgr-WuCogazt-hfKilvqcMk&dib_tag=se&keywords=r+for+economic+research&qid=1716253408&s=digital-text&sprefix=r+for+economic+re%2Cdigital-text%2C276&sr=1-1){target="_blank"} a physical or Kindle version.
 :::
 
 ![](book_cover.jpg){style="float:right;" width="25%"}
